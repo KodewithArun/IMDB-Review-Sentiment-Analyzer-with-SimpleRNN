@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on developing a sentiment analysis model for movie reviews sourced from the IMDB dataset. The core of the solution is a Deep Learning model built using a Simple Recurrent Neural Network (SimpleRNN), implemented with TensorFlow/Keras. The model is designed to classify movie reviews as either positive or negative, demonstrating the application of recurrent neural networks in natural language processing tasks.
 
-## System UI
+## System User Interface
 ![System UI](systemui.png)
 
 ## Features

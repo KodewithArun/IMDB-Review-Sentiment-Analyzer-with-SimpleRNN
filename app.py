@@ -273,6 +273,7 @@ if st.button("Analyze Sentiment"):
             </div>
             ''', unsafe_allow_html=True)
             
+            
             # Progress bar
             st.markdown('<div class="progress-container">', unsafe_allow_html=True)
             st.progress(score, text=f"Sentiment Score: {score:.3f}")
